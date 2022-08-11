@@ -2,7 +2,7 @@
 These are some of my projects, that I developed while studying at Hyperskill.org (JetBrains Academy) platform
 
 
-**4) Simple Banking System***: https://github.com/AndyDeveloperIsCoding/Simple-Banking-System
+**4) Simple Banking System**: https://github.com/AndyDeveloperIsCoding/Simple-Banking-System
 Practiced skills: banking system way of working, learn about Gradle, SQL and SQLite, see how to generate bank card number using Luhn algorithm.
 
 **3) Coffee Machine**: https://github.com/AndyDeveloperIsCoding/Coffee-Machine-Program
