@@ -2,8 +2,8 @@
 
 **Light Banking Core** (fintech startup assignment): https://github.com/AndyDeveloperIsCoding/Banking_Core_Light
 
-These are some of my projects, that I developed while studying at Hyperskill.org (JetBrains Academy) platform
 
+Following are some of my projects, that I developed while studying at Hyperskill.org (JetBrains Academy) platform:
 
 **4) Simple Banking System**: https://github.com/AndyDeveloperIsCoding/Simple-Banking-System <br/>
 Practiced skills: banking system way of working, learn about Gradle, SQL and SQLite, see how to generate bank card number using Luhn algorithm.
