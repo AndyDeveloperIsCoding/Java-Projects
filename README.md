@@ -1,7 +1,9 @@
 # Java Projects
 
 <br/>
+
 **Light Banking Core** (fintech startup assignment): https://github.com/AndyDeveloperIsCoding/Banking_Core_Light 
+
 <br/>
 
 Following are some of my projects, that I developed while studying at Hyperskill.org (JetBrains Academy) platform:
