@@ -2,10 +2,6 @@
 
 <br/>
 
-**Light Banking Core** (fintech startup assignment): https://github.com/AndyDeveloperIsCoding/Banking_Core_Light <br/>
-Practiced skills: Java Core, Gradle, SQL. <br/>
-<br/>
-
 Following are some of my projects, that I developed while studying at Hyperskill.org (JetBrains Academy) platform: <br/>
 <br/>
 
@@ -22,4 +18,8 @@ Practiced skills: planning and developing a complex program from scratch, using 
 Practiced skills: basic syntax of Java and write a simple program using variables, conditions, loops, and methods.
 
 I know a little bit more of Java, than I used in these projects. I will demonstrate my other knowledge in the projects to come.
-Feel free to ask me about writing the code for these programs.
+Feel free to ask me about writing the code for these programs. <br/><br/>
+
+**Light Banking Core** (fintech startup assignment): https://github.com/AndyDeveloperIsCoding/Banking_Core_Light <br/>
+Practiced skills: Java Core, Gradle, SQL. <br/>
+<br/>
