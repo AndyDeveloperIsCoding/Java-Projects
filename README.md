@@ -2,19 +2,22 @@
 
 <br/>
 
-Following are some of my projects, that I developed while studying at Hyperskill.org (JetBrains Academy) platform: <br/>
+Following are some of my projects, that I developed while studying Java Core, Gradle, SQL and REST. See the project's difficulty levelin brackets. <br/>
 <br/>
 
-**4) Simple Banking System**: https://github.com/AndyDeveloperIsCoding/Simple-Banking-System <br/>
+**5) Recipes (challenging- currently in progress)**: https://github.com/AndyDeveloperIsCoding/Simple-Banking-System <br/>
+Practiced skills: Java Core, Spring Boot, Gradle, REST API and JSON.
+
+**4) Simple Banking System (medium)**: https://github.com/AndyDeveloperIsCoding/Simple-Banking-System <br/>
 Practiced skills: banking system way of working, learn about Gradle, SQL and SQLite, see how to generate bank card number using Luhn algorithm.
 
-**3) Coffee Machine**: https://github.com/AndyDeveloperIsCoding/Coffee-Machine-Program <br/>
+**3) Coffee Machine (easy)**: https://github.com/AndyDeveloperIsCoding/Coffee-Machine-Program <br/>
 Practiced skills: challenging loops and conditions, working with classes.
 
-**2) Tic-Tac-Toe**: https://github.com/AndyDeveloperIsCoding/Tic-Tac-Toe-Game <br/>
+**2) Tic-Tac-Toe (easy)**: https://github.com/AndyDeveloperIsCoding/Tic-Tac-Toe-Game <br/>
 Practiced skills: planning and developing a complex program from scratch, using methods, handling errors, and processing user input.
 
-**1) Simple Chatty Bot**: https://github.com/AndyDeveloperIsCoding/Simple-Chatty-Bot-Program <br/>
+**1) Simple Chatty Bot (easy)**: https://github.com/AndyDeveloperIsCoding/Simple-Chatty-Bot-Program <br/>
 Practiced skills: basic syntax of Java and write a simple program using variables, conditions, loops, and methods.
 
 I know a little bit more of Java, than I used in these projects. I will demonstrate my other knowledge in the projects to come.
