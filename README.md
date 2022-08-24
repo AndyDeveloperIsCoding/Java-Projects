@@ -5,8 +5,8 @@
 Following are some of my projects, that I developed while studying Java Core, Gradle, SQL and REST. See the project's difficulty levelin brackets. <br/>
 <br/>
 
-**5) Recipes (challenging- currently in progress)**: https://github.com/AndyDeveloperIsCoding/Simple-Banking-System <br/>
-Practiced skills: Java Core, Spring Boot, Gradle, REST API and JSON.
+**5) Recipes (challenging- currently in progress)**: https://github.com/AndyDeveloperIsCoding/Recipes <br/>
+Practiced skills: Java Core, Spring Boot, Gradle, Apache Tomcat, Apache Tomcat, REST API and JSON.
 
 **4) Simple Banking System (medium)**: https://github.com/AndyDeveloperIsCoding/Simple-Banking-System <br/>
 Practiced skills: banking system way of working, learn about Gradle, SQL and SQLite, see how to generate bank card number using Luhn algorithm.
