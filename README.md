@@ -6,7 +6,7 @@ Following are some of my projects, that I developed using Java Core, Spring Boot
 <br/>
 
 
-**5) To-Do Management System/ fullstack app (hard)**: <br/>
+**6) To-Do Management System/ fullstack app (hard)**: <br/>
 Spring backend: https://github.com/AndyDeveloperIsCoding/todo_management_system_Spring <br/>
 React frontend: https://github.com/AndyDeveloperIsCoding/todo-management-system_React <br/>
 Practiced skills: Java Core, Spring Boot, Maven, PostgreSQL, REST API, React, NPM.
