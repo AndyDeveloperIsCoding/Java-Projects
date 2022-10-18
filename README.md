@@ -7,10 +7,10 @@ Following are some of my projects, that I developed using Java Core, Spring Boot
 
 
 **6) To-Do Management System/ fullstack app (hard)**: <br/>
-Spring backend: https://github.com/AndyDeveloperIsCoding/todo_management_system_Spring (database is set to create-drop) <br/>
+Spring backend: https://github.com/AndyDeveloperIsCoding/todo_management_system_Spring <br/>
 React frontend: https://github.com/AndyDeveloperIsCoding/todo-management-system_React <br/>
 Fullstack in Docker: https://github.com/AndyDeveloperIsCoding/todo_management_system_docker
-Utilized technologies: Java Core, Spring Boot, Maven, PostgreSQL, REST API, React, NPM.
+Utilized technologies: Java Core, Spring Boot, Maven, PostgreSQL, REST API, React, NPM, Swagger UI.
 
 **5) Recipes (challenging)**: https://github.com/AndyDeveloperIsCoding/Recipes <br/>
 Utilized technologies: Java Core, Spring Boot and Security (password encoding, user authentication and authorization), Gradle, Apache Tomcat, SQL database, REST API and JSON.
